@@ -1,0 +1,6 @@
+#Wed Feb 09 11:15:48 CET 2022
+chromeDriver=CHROME
+firefoxDriver=FIREFOX
+edgeDRIVER=EDGE
+iexplorerDriver=IE
+mainPage=http://146.59.32.4/index.php
